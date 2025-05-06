@@ -27,3 +27,8 @@ bun dev
   - 예: `JWT_SECRET=your-secret-key`
 - `OPENAI_API_KEY`: OpenAI API를 호출하기 위한 API 키.
   - 예: `OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx`
+
+
+
+https://github.com/user-attachments/assets/c0736872-ad7a-4314-9adb-3fd134dbe0ff
+
